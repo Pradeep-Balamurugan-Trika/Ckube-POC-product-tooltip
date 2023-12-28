@@ -1,0 +1,8 @@
+{
+  "endpoints": [
+    { "type": "source", "name": "product" },
+    { "type": "destination", "name": "dest_endpoint1" },
+    { "type": "source", "name": "sku" }
+  ],
+  "Data-models": [{ "name": "test1" }, { "name": "test2" }]
+}
